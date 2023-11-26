@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="127.488857">
+    <testcase classname="To validate login functionality for facebook application" name="To validate the positive and negative combination of login" time="46.760469">
+        <system-out><![CDATA[Given To launch the browser and maximize the window.........................passed
+When User has to launch the url page of facebook application................passed
+And User has to pass the data "rakeshanand123@gmail.com" in email feild.....passed
+And User has to pass the data "6472363" in password feild...................passed
+And User has to click the button............................................passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality for facebook application" name="To validate the positive and negative combination of login 2" time="16.819912">
+        <system-out><![CDATA[Given To launch the browser and maximize the window.........................passed
+When User has to launch the url page of facebook application................passed
+And User has to pass the data "sanjaisandy@gmail.com" in email feild........passed
+And User has to pass the data "teethone" in password feild..................passed
+And User has to click the button............................................passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality for facebook application" name="To validate the positive and negative combination of login 3" time="17.639958">
+        <system-out><![CDATA[Given To launch the browser and maximize the window.........................passed
+When User has to launch the url page of facebook application................passed
+And User has to pass the data "bobbalaji@gmail.com" in email feild..........passed
+And User has to pass the data "574637" in password feild....................passed
+And User has to click the button............................................passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality for facebook application" name="To validate the positive and negative combination of login 4" time="14.061494">
+        <system-out><![CDATA[Given To launch the browser and maximize the window.........................passed
+When User has to launch the url page of facebook application................passed
+And User has to pass the data "vikramnova@gmail.com" in email feild.........passed
+And User has to pass the data "73388873" in password feild..................passed
+And User has to click the button............................................passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality for facebook application" name="To validate the positive and negative combination of login 5" time="13.850389">
+        <system-out><![CDATA[Given To launch the browser and maximize the window.........................passed
+When User has to launch the url page of facebook application................passed
+And User has to pass the data "sridhar32@gmail.com" in email feild..........passed
+And User has to pass the data "balaji" in password feild....................passed
+And User has to click the button............................................passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To validate login functionality for facebook application" name="To validate the positive and negative combination of login 6" time="18.356635">
+        <system-out><![CDATA[Given To launch the browser and maximize the window.........................passed
+When User has to launch the url page of facebook application................passed
+And User has to pass the data "kuttikunjan12@gmail.com" in email feild......passed
+And User has to pass the data "kutti" in password feild.....................passed
+And User has to click the button............................................passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
